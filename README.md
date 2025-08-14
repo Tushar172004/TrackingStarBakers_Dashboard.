@@ -1,6 +1,6 @@
 # TrackingStarBakers_Dashboard
 # Project: Tracking Star Bakers
-Star Bakers Tracking Dashboard
+Star Bakers Tracking Dashboard :
 This repository contains the Tableau project for a dashboard that tracks "Star Bakers" from a popular baking competition show. This visualization was created as part of a Salesforce Trailhead task to demonstrate data analysis and visualization skills.
 
 Project Overview
@@ -16,6 +16,7 @@ You can view and interact with the full dashboard online here:
 ### Files in this Repository
 
 - `TrackingStarBakers_Dashboard.twbx`: The packaged Tableau workbook file.
-- `TrackingStarBakers_Dashboard.png`: <img width="1187" height="897" alt="STARBAKERS DASHBOARD" src="https://github.com/user-attachments/assets/51825da6-0796-42f6-9d90-c70ae4c4a81a" />
+- `TrackingStarBakers_Dashboard.png`:  SS OF DASHBOARD
+- <img width="1187" height="897" alt="STARBAKERS DASHBOARD" src="https://github.com/user-attachments/assets/51825da6-0796-42f6-9d90-c70ae4c4a81a" />
 
   
